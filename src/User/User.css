@@ -1,0 +1,10 @@
+.User{
+    margin: 50px 200px;
+    padding: 20px;
+    border: 1px solid #303f9f;
+    border-radius: 20px;
+    text-align: center;
+}
+.post{
+    text-align: left;
+}
